@@ -11,6 +11,6 @@ Cloning Youtube with Vanilla.js and Node.js , no frameworks ☄❌
 - [ ] User Detail
 - [ ] Edit Profile
 - [ ] Change Password
-- [ ] Upload Video
-- [ ] Video Detail
+- [x] Upload Video
+- [x] Video Detail
 - [ ] Edit Video
